@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Tim's GitHub stats](https://github-readme-stats.vercel.app/api?username=yimig)](https://github.com/anuraghazra/github-readme-stats)
+[![Tim's GitHub stats](https://github-readme-stats.vercel.app/api?username=yimig&show_icons=true&theme=Gradient)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Tim's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yimig&layout=compact&hide_border=true&langs_count=10)
 
